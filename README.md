@@ -1,6 +1,7 @@
 CMPINF 0010 Skills Lab 6:
 
 Bella DeRubeis
+Jason Noblitt
 
 How this program works:
 

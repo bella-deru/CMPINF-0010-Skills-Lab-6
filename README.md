@@ -1,7 +1,6 @@
 CMPINF 0010 Skills Lab 6:
 
-Bella DeRubeis
-Jason Noblitt
+Bella DeRubeis<br>Jason Noblitt
 
 How this program works:
 

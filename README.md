@@ -1,6 +1,6 @@
 CMPINF 0010 Skills Lab 6:
 
-Khuslen Ankhbayar, Bella DeRubeis, Kay Lin
+Bella DeRubeis
 
 How this program works:
 

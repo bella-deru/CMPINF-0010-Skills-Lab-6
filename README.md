@@ -1,6 +1,6 @@
 CMPINF 0010 Skills Lab 6:
 
-Bella DeRubeis<br>Jason Noblitt
+Bella DeRubeis<br>Jason Noblitt<br>Kay Lin
 
 How this program works:
 
@@ -9,7 +9,7 @@ The program first asks for your name and favorite number.
 
 2. Checks if the Number is Prime:
 If your favorite number is a prime number, the program will tell you it’s prime.
-If the number is not prime, the program will say it’s not a prime number. And it will tell you the next prime number
+If the number is not prime, the program will say it’s not a prime number, and it will tell you the next prime number.
 
 3. Invalid Inputs:
 If you enter something that’s not a number (like a word or symbol), the program will display a message saying it’s an invalid number and ask you to try again.
